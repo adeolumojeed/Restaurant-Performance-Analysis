@@ -1,7 +1,9 @@
 # Restaurant-Performance-Analysis
 Restaurant Performance Analysis is an interactive Power BI dashboard that analyzes parking availability, customer reservations, ratings, revenue, and ROI. The project provides actionable insights into restaurant performance, helping stakeholders optimize operations, improve customer satisfaction, and make data-driven business decisions.
 
-# 
+## Dashboard preview 
+<img width="1536" height="1024" alt="resturant" src="https://github.com/user-attachments/assets/dd5f6f1c-6d8e-4768-a9cf-eaa7a12869ce" />
+
 
 ## Overview
 
